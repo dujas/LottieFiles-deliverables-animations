@@ -350,5 +350,4 @@ Setup frontend
 
 Demo
 
-- ![video](https://drive.google.com/file/d/1RuIXyvU3GahPTp9MNIsDCeBIEaHlTi0L/view?usp=sharing)
-
+- [video](https://drive.google.com/file/d/1RuIXyvU3GahPTp9MNIsDCeBIEaHlTi0L/view?usp=sharing)
